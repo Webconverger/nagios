@@ -1,10 +1,10 @@
-# Webconveger Nagios configuration
+# Webconverger Nagios configuration
 
 For monitoring [Webconverger services](http://webconverger.org/servers/).
 
 Could it be better? Simpler? Please let me know!
 
-## Installation on stable Debian server
+## Installation on a stable Debian server
 
 	apt-get install nagios3
 
@@ -17,3 +17,5 @@ Could it be better? Simpler? Please let me know!
 ## Mailing out alerts to root by default
 
 	grep ^root /etc/aliases
+
+To see who is on that distribution list.
