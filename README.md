@@ -8,7 +8,7 @@ Could it be better? Simpler? Please let me know!
 
 	apt-get install nagios3
 
-	git clone CLONE_RUL /etc/nagios3/conf.d
+	git clone CLONE_URL /etc/nagios3/conf.d
 
 ## Command definitions
 
